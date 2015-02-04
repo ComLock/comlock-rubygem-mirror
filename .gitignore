@@ -1,0 +1,5 @@
+.bundle
+.idea
+stickler-server.pid
+stickler/
+vendor/
